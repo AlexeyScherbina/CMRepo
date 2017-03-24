@@ -1,0 +1,14 @@
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\bin\Debug\CMLab1.exe.config
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\bin\Debug\CMLab1.exe
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\bin\Debug\CMLab1.pdb
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\CMLab1.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\MainWindow.g.cs
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\App.g.cs
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\CMLab1_MarkupCompile.cache
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\CMLab1_MarkupCompile.lref
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\MainWindow.baml
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\CMLab1.g.resources
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\CMLab1.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\CMLab1.csproj.GenerateResource.Cache
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\CMLab1.exe
+c:\users\алексей\documents\visual studio 2015\Projects\CMLab1\CMLab1\obj\Debug\CMLab1.pdb

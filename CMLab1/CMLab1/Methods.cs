@@ -227,6 +227,6 @@ namespace CMLab1
             Console.WriteLine();
             return message;
         }
-
+       
     }
 }

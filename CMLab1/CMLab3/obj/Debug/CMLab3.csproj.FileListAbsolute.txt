@@ -1,0 +1,14 @@
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\bin\Debug\CMLab3.exe.config
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\bin\Debug\CMLab3.exe
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\bin\Debug\CMLab3.pdb
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\CMLab3.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\App.g.cs
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\CMLab3_MarkupCompile.cache
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\CMLab3_MarkupCompile.lref
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\CMLab3.g.resources
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\CMLab3.Properties.Resources.resources
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\CMLab3.csproj.GenerateResource.Cache
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\CMLab3.exe
+C:\Users\Алексей\Documents\GitHub\CMRepo\CMLab1\CMLab3\obj\Debug\CMLab3.pdb

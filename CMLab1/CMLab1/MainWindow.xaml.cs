@@ -97,7 +97,6 @@ namespace CMLab1
             s = sm(A, B, B.Length);
             textBox.Text = s;
         }
-
         private void checkBox1_Checked(object sender, RoutedEventArgs e)
         {
             try

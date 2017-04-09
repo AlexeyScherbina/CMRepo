@@ -57,7 +57,7 @@ namespace CMLab2
                 if (Math.Abs(xk - x0) <= e) break;
                 else x0 = xk;
             }
-            while (iter < 1000);
+            while (iter < 100);
             return xk;
         }
     }

@@ -5,12 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CMLab3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="308" Width="532" ResizeMode="NoResize">
+        Title="MainWindow" Height="308" Width="696.79" ResizeMode="NoResize">
     <Grid>
         <Button x:Name="button" Content="Решить" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="108" Height="42" Click="button_Click"/>
-        <DataGrid x:Name="dataGridA" HorizontalAlignment="Left" VerticalAlignment="Top" Height="174" Width="230" Margin="10,94,0,0" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" MinColumnWidth="40" MaxColumnWidth="40"/>
-        <DataGrid x:Name="dataGridB" HorizontalAlignment="Left" Margin="245,94,0,0" VerticalAlignment="Top" Height="174" Width="48" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" MaxColumnWidth="40" MinColumnWidth="40"/>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="258" Margin="298,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="218" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/>
+        <DataGrid x:Name="dataGridA" HorizontalAlignment="Left" VerticalAlignment="Top" Height="174" Width="283" Margin="10,94,0,0" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" MinColumnWidth="40" MaxColumnWidth="40"/>
+        <TextBox x:Name="textBox" Height="258" Margin="298,10,10,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/>
 
     </Grid>
 </Window>

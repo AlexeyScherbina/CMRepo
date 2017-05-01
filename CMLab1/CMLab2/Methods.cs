@@ -30,7 +30,7 @@ namespace CMLab2
             {
                 iter++;
                 tmp = x_next;
-                x_next = b - Func(b) * (a - b) / (Func(a) - Func(b));
+                x_next = b - Func(b) * (a-b) / (Func(a) - Func(b));
                 a = b;
                 b = tmp;
                 s += "Итерация " + iter + ": x = " + x_next + "\n";
